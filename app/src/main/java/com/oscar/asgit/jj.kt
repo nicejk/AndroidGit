@@ -5,4 +5,5 @@ package com.oscar.asgit
  * Class Comment：
  */
 class jj {
+    private val name: String? = null
 }
